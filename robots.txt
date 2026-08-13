@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bhumikaitoshi23.github.io/my-portfolio/sitemap.xml
